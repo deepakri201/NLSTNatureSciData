@@ -1,0 +1,3 @@
+Description,Structure,SegmentedPropertyCategoryCodeSequence.CodingSchemeDesignator,SegmentedPropertyCategoryCodeSequence.CodeValue,SegmentedPropertyCategoryCodeSequence.CodeMeaning,SegmentedPropertyTypeCodeSequence.CodingSchemeDesignator,SegmentedPropertyTypeCodeSequence.CodeValue,SegmentedPropertyTypeCodeSequence.CodeMeaning,SegmentedPropertyTypeModifierCodeSequence.CodingSchemeDesignator,SegmentedPropertyTypeModifierCodeSequence.CodeValue,SegmentedPropertyTypeModifierCodeSequence.CodeMeaning,recommendedDisplayRGBValue
+Tumor,tumor,SCT,49755003,Morphologically Altered Structure,SCT,108369006,Tumor,,,,"[173, 69, 44]"
+Nodule,nodule,SCT,49755003,Morphologically Altered Structure,SCT,27925004,Nodule,,,,"[112, 162, 95]"
