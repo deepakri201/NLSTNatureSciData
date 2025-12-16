@@ -1,0 +1,13 @@
+Description,Structure,AnatomicRegionSequence.CodingSchemeDesignator,AnatomicRegionSequence.CodeValue,AnatomicRegionSequence.CodeMeaning
+Left Hilum,Hilum of left lung,SCT,1650005,Hilum of left lung
+Right Hilum,Hilum of right lung,SCT,88838000,Hilum of right lung
+Left lower lobe,Lower lobe of left lung,SCT,41224006,Lower lobe of left lung
+Right lower lobe,Lower lobe of right lung,SCT,266005,Lower lobe of right lung
+Right middle lobe,Middle lobe of right lung,SCT,72481006,Middle lobe of right lung
+Left upper lobe,Upper lobe of left lung,SCT,44714003,Upper lobe of left lung
+Right upper lobe,Upper lobe of right lung,SCT,42400003,Upper lobe of right lung
+Left main stem bronchus,Left main bronchus,SCT,75245000,Left main bronchus
+Right main stem bronchus,Right main bronchus,SCT,70074004,Right main bronchus
+Mediastinum,Mediastinum,SCT,72410000,Mediastinum
+Lingula,Lingular bronchus,SCT,64720009,Lingular bronchus
+Unknown location,Unknown body region,SCT,87100004,Unknown body region
